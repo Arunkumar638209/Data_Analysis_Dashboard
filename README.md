@@ -28,29 +28,26 @@ Dashboard Interaction https://github.com/Arunkumar638209/Data_Analysis_Dashboard
 📌 Gather raw sales data (Product-wise, State-wise, Customer-wise).
 📌 Clean & format data (remove duplicates, handle missing values).
 📌 Create a structured dataset with Category, Sales, Profit, Year, State, and Customer details.
-
 2. Data Analysis & Processing
 📌 Use Pivot Tables to summarize sales by category, state, and customer.
 📌 Calculate total sales, profit trends, and customer counts over time.
 📌 Apply DAX (Power BI) or Formulas (Excel) for calculations (e.g., YoY growth).
-
 3. Dashboard Design & Visualization
 📌 Use Bar Charts (Sales by Category, Customer Count).
 📌 Use Line Chart (Profit Gained Over Time).
 📌 Use Map Chart (Sales by State).
 📌 Use Pie Chart (Top 5 Customers).
 📌 Use Area Chart (Monthly Sales Trend).
-
 4. Adding Interactivity & Filters
 📌 Implement slicers for Category & Year to filter data dynamically.
 📌 Use drop-downs or buttons for better user experience.
-
 5. Optimization & Finalization
 📌 Ensure consistent color themes for clarity.
 📌 Test dashboard with different filters to verify accuracy.
 📌 Export or publish (Excel, Power BI, Tableau) for reporting.
 ## Dashboard
-excel sales dashboard project 1 image.png
+![excel sales dashboard project 1 image](https://github.com/user-attachments/assets/c8699ef8-a83b-44dc-a8a4-7b45a85c53d0)
+
 ## Project Insight - Sales Dashboard
 This dashboard provides an overview of sales performance, profit trends, customer engagement, and regional sales insights using visual analytics.
 Key Insights:
